@@ -8,7 +8,7 @@
 body{
     /* background: linear-gradient(to right, #07223A, #050D17); */
     color: #fff !important;
-    background: linear-gradient(rgba(34,34,59));
+    background: linear-gradient(rgba(34,34,59)) !important;
 }
 html{
     font-size: 20px;
