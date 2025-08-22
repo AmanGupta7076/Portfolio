@@ -4,11 +4,12 @@
     font-family: "Winky Rough", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
+     background: linear-gradient(rgba(34,34,59)) !important;
 }
 body{
     /* background: linear-gradient(to right, #07223A, #050D17); */
     color: #fff !important;
-    background: linear-gradient(rgba(34,34,59)) !important;
+    /* background: linear-gradient(rgba(34,34,59)) !important; */
 }
 html{
     font-size: 20px;
